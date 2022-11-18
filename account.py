@@ -24,4 +24,4 @@ class Account:
         return self.__account_balance
 
     def get_name(self):
-        return self.__account_name
+        return self.__account_name #test
